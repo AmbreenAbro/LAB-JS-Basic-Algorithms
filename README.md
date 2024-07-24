@@ -17,9 +17,10 @@ The goal of this exercise is to get you familiarized with the primitive data str
 
 Ready?
 
+![Description](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
   
 
-https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+
 
   
 
